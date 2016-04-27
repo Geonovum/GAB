@@ -1,0 +1,43 @@
+Gebruik Github door de GAB-werkgroep
+
+Vragen
+1. Wat zijn de kosten voor gebruik?
+2. Is er een alternatief binnen de overheid?
+3. Self hosting?
+
+Eisen
+1. Eigen repository (github.com/GAB, als die beschikbaar is)
+2. Publicatie van afgeronde voorstellen
+3. Beheer van afgeronde voorstellen, inclusief RfCs, discussie, versiebeheer, review
+4. Door sub-werkgroepen werken aan nieuwe voorstellen, inclusief discussie, review
+5. Per voorstel (= subdirectory) een eigenaar/verantwoordelijke
+
+Wensen
+1. Ondersteuning van werkgroep (agenda's, verslagen, actie- en besluitenlijst, elementenlijst, monitor)
+2. Handboek GAB (procedures voor uitwerken en beheren voorstellen, reviews, aanbieden nieuwe voorstellen, enz.)
+3. Bovenstaande in besloten directory die niet voor buitenstaanders toegankelijk is
+
+Voorstel voor structuur
+GAB
+  Voorstellen
+    Voorstel A
+      In ontwikkeling (inclusief discussies)
+      In review
+      Gepubliceerd
+    Voorstel B
+      ...
+  Werkgroep (besloten)
+    Federatief Overleg
+      Agenda's, verslagen e.d.
+    Bijeenkomsten werkgroep
+      Bijeenkomst 20160413
+      Bijeenkomst ...
+    Actie- en besluitenlijst
+    Handboek (Procedures, werkwijzen, aanpak reviews e.d.)
+    Sjablonen
+      Sjabloon voor voorstel
+    Glossary  
+    Communicatie (factsheets, presentaties, nieuwsberichten e.d.)
+    Deelnemers (deelnemerslijst, contactgegevens e.d.)
+    Elementenlijst (werkvoorraad, inclusief 'verantwoordelijke' per onderwerp)
+    Monitor (stand van zaken adoptie)
